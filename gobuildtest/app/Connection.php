@@ -4,7 +4,7 @@ require_once 'includes/db_config.php';
 /**
  * Database connection class
  * 
- * creating test line for git
+ * testing branching
  */
 class Connection
 {
